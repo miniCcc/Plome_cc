@@ -159,7 +159,6 @@ yong
 zai
 guan
 guai
-version:
 dong
 kuai
 ying
@@ -333,7 +332,6 @@ bin
 bie
 mou
 nve
-source:
 shen
 shei
 fou
@@ -379,7 +377,6 @@ jue
 shang
 jun
 hu
-hm
 ling
 ha
 he
