@@ -7929,7 +7929,7 @@ https://github.com/mozillazg/pinyin-data	source:
 噴	pen
 噵	dao
 噶	ga
-噷	hm
+噷	hen
 噸	dun
 噹	dang
 噺	xin

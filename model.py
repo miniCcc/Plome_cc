@@ -40,7 +40,8 @@ class Bert_PLOME(nn.Module):
 				 zi_py_matrix,
 				 dropout):
 		super(Bert_PLOME, self).__init__()
-		self.model = BertModel.from_pretrained('bert-base-chinese')
+		# self.model = BertModel.from_pretrained('bert-base-chinese')
+		self.model = BertModel.from_pretrained('hfl/chinese-bert-wwm-ext')
 		self.num_class = num_class  # 21128
 		self.embed_size = self.model.config.hidden_size
 		self.hidden_size = self.model.config.hidden_size

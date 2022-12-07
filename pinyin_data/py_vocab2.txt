@@ -1,0 +1,415 @@
+gu  g   u
+qiao    q   ao    i
+qian    q   an    i
+ge  g   e
+gang    g   ang
+ga  g   a
+lian    l   an  i
+liao    l   ao  i
+rou r   ou
+zong    z   ong
+tu  t   u
+seng    s   eng
+ti  t   i
+te  t   e
+ta  t   a
+me  m   e
+zhang   zh  ang
+din d   in
+fan f   an
+tuan    t   an  u
+gua g   a   u
+die d   ie
+gui g   ui
+guo g   o   u
+gun g   un
+sang    s   ang
+diu d   iu
+zi  z   i
+ze  z   e
+za  z   a
+chen    ch  en
+zu  z   u
+ruo r   o   u
+dian    d   an  i
+diao    d   ao  i
+nei n   ei
+suo s   o   u
+sun s   un
+zhao    zh  ao
+nang    n   ang
+kuo k   o   u
+kun k   un
+kui k   ui
+zhai    zh  ai
+zuan    z   an  u
+kua k   a   u
+rua r   a   u
+ning    n   ing
+lei l   ei
+neng    n   eng
+men m   en
+mei m   ei
+tiao    t   ao  i
+geng    g   eng
+chang   ch  ang
+shua    sh  a   u
+cha ch  a
+che ch  e
+fen f   en
+chi ch  i
+fei f   ei
+chu ch  u
+qun q   un
+nong    n   ong
+ma  m   a
+mo  m   o
+mi  m   i
+mu  m   u
+cai c   ai
+zhan    zh  an
+cao c   ao
+can c   an
+den d   en
+wang    w   ang
+pie p   ie
+beng    b   eng
+zhuang  zh  ang u
+tan t   an
+tao t   ao
+tai t   ai
+eng [N] eng
+song    s   ong
+ping    p   ing
+hou h   ou
+cuan    c   an  u
+lan l   an
+lao l   ao
+lai l   ai
+fa  f   a
+jiong   j   ong i
+mai m   ai
+xiang   x   ang i
+mao m   ao
+man m   an
+a   [N] a
+jiang   j   ang i
+kuang   k   ang u
+bing    b   ing
+su  s   u
+si  s   i
+sa  s   a
+se  s   e
+zan z   an
+xuan    x   an  u
+zei z   ei
+zen z   en
+kong    k   ong
+pang    p   ang
+jie j   ie
+jia j   a   i
+jin j   in
+lo  l   o
+li  l   i
+peng    p   eng
+lu  l   u
+yi  y   i
+yo  y   o
+ya  y   a
+cen c   en
+dan d   an
+dao d   ao
+ye  y   e
+dai d   ai
+cei c   ei
+zhen    zh  en
+bang    b   ang
+nou    n    ou
+yu  y   u
+weng    w   eng
+wong    w   ong
+en  [N] en
+ei  [N] ei
+kang    k   ang
+er  [N] er
+ru  r   u
+keng    k   eng
+fu  f   u
+re  r   e
+ren r   en
+gou g   ou
+ri  r   i
+tian    t   an  i
+qi  q   i
+que q   e   u
+shi sh  i
+shun    sh  un
+shuo    sh  o   u
+shui    sh  ui
+xue x   e   u
+yun y   un
+xun x   un
+fiao    f   ao  i
+yue y   e   u
+ding    d   ing
+zao z   ao
+rang    r   ang
+xi  x   i
+yong    y   ong
+zai z   ai
+guan    g   an  u
+guai    g   ai  u
+version:
+dong    d   ong
+kuai    k   ai  u
+ying    y   ing
+kuan    k   an  u
+xu  x   u
+xia x   a   i
+xie x   ie
+yin y   in
+rong    r   ong
+xin x   in
+tou t   ou
+nian    n   an  i
+niao    n   ao  i
+xiu x   iu
+fo  f   o
+kou k   ou
+niang   n   ang i
+hua h   a   u
+hun h   un
+huo h   o   u
+hui h   ui
+shuan   sh  an  u
+quan    q   an  u
+shuai   sh  ai  u
+chong   ch  ong
+bei b   ei
+ben b   en
+dang    d   ang
+sai s   ai
+ang [N] ang
+sao s   ao
+san s   an
+reng    r   eng
+ran r   an
+rao r   ao
+ming    m   ing
+lie l   ie
+lia l   a   i
+min m   in
+pa  p   a
+miao    m   ao  i
+mian    m   an  i
+mie m   ie
+liu l   iu
+zou z   ou
+miu m   iu
+nen n   en
+kai k   ai
+kao k   ao
+kan k   an
+ka  k   a
+ke  k   e
+m   m
+yang    y   ang
+ku  k   u
+deng    d   eng
+dou d   ou
+shou    sh  ou
+chuang  ch  ang u
+sui s   ui
+feng    f   eng
+meng    m   eng
+cheng   ch  eng
+di  d   i
+de  d   e
+da  d   a
+gei g   ei
+du  d   u
+gen g   en
+qu  q   u
+shu sh  u
+sha sh  a
+she sh  e
+ban b   an
+bao b   ao
+bai b   ai
+nun n   un
+nuo n   o   u
+sen s   en
+zha zh  a
+fang    f   ang
+teng    t   eng
+lun l   un
+luo l   o   u
+ken k   en
+wa  w   a
+wo  w   o
+ju  j   u
+tui t   ui
+wu  w   u
+le  l   e
+ji  j   i
+tun t   un
+tuo t   o   u
+cou c   ou
+la  l   a
+mang    m   ang
+ci  c   i
+huang   h   ang u
+tong    t   ong
+ca  c   a
+pou p   ou
+ce  c   e
+qin q   in
+cu  c   u
+lv  l   v
+dun d   un
+duo d   o   u
+ting    t   ing
+qie q   ie
+yao y   ao
+jiu j   iu
+pi  p   i
+po  p   o
+suan    s   an  u
+chua    ch  a   u
+chun    ch  un
+qia q   a   i
+chui    ch  ui
+gao g   ao
+gan g   an
+zeng    z   eng
+gai g   ai
+xiong   x   ong i
+tang    t   ang
+n   n
+pian    p   an  i
+piao    p   ao  i
+cang    c   ang
+heng    h   eng
+xian    x   an  i
+xiao    x   ao  i
+bian    b   an  i
+biao    b   ao  i
+zhua    zh  a   u
+duan    d   an  u
+cong    c   ong
+zhui    zh  ui
+zhuo    zh  o   u
+zhun    zh  un
+hong    h   ong
+shuang  sh  ang u
+juan    j   an  u
+pai p   ai
+shai    sh  ai
+shan    sh  an
+shao    sh  ao
+pan p   an
+pao p   ao
+nin n   in
+hang    h   ang
+nie n   ie
+zhuai   zh  ai  u
+zhuan   zh  u   an
+yuan    y   an  u
+niu n   iu
+na  n   a
+lin l   in
+guang   g   ang u
+nao n   ao
+hai h   ai
+han h   an
+hao h   ao
+wei w   ei
+wen w   en
+ruan    r   an  u
+cuo c   o   u
+cun c   un
+cui c   ui
+bin b   in
+bie b   ie
+mou m   ou
+nve n   ve
+shen    sh  en
+shei    sh  ei
+fou f   ou
+xing    x   ing
+qiang   q   ang i
+nuan    n   an  u
+pen p   en
+pei p   ei
+rui r   ui
+run r   un
+ba  b   a
+sheng   sh  eng
+dui d   ui
+bo  b   o
+bi  b   i
+bu  b   u
+chuan   ch  an  u
+qing    q   ing
+chuai   ch  ai  u
+pu  p   u
+o   [N] o
+chou    ch  ou
+ou  [N] ou
+zui z   ui
+luan    l   an  u
+zuo z   o   u
+jian    j   an  i
+jiao    j   ao  i
+sou s   ou
+wan w   an
+jing    j   ing
+qiong   q   ong i
+wai w   ai
+long    l   ong
+yan y   an
+liang   l   ang i
+lou l   ou
+huan    h   an  u
+hen h   en
+hei h   ei
+huai    h   ai  u
+jue h   e   u
+shang   sh  ang
+jun j   un
+hu  h   u
+ling    l   ing
+ha  h   a
+he  h   e
+zhu zh  u
+ceng    c   eng
+lve l   ve
+zhe zh  e
+zhi zh  i
+biang   b   ang i
+gong    g   ong
+pin p   in
+ai  [N] ai
+chai    ch  ai
+chan    ch  an
+chao    ch  ao
+ao  [N] ao
+an  [N] an
+qiu q   iu
+ni  n   i
+zhong   zh  ong
+zang    z   ang
+nai n   ai
+nan n   an
+ne  n   e
+chuo    ch  o   u
+tie t   ie
+you y   ou
+nu  n   u
+nv  n   v
+zheng   zh  eng
+leng    l   eng
+zun z   un
+zhou    zh  ou
+lang    l   ang
+e   [N]   e
